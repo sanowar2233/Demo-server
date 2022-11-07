@@ -1,0 +1,39 @@
+[
+    {
+       "service":"Shylet",
+       "img":"https://i.postimg.cc/FsWtJfXf/caption.jpg",
+       "price":"5000",
+       "discription":"Sylhet is known for its cane products and produces tea, fertilizer, and liquefied petroleum (propane) gas. "
+    },
+    {
+        "service":"Kushtia",
+        "img":"https://i.postimg.cc/yNN26sbm/Rabindranath-Tagore-s-Shilaidaha-Kuthibari-1.jpg",
+        "price":"4000",
+        "discription":"Kushtia was home of many famous people, especially authors and poets. Present day Kushtia is known for Shilaidaha Kuthibari and Lalon's shrine."
+     },
+     {
+        "service":"Rajshahi",
+        "img":"https://i.postimg.cc/Z5X6nLfw/7-1542098270m.jpg",
+        "price":"4500",
+        "discription":"Rajshahi is famous for its silk industries. Fine and cheap silk products of Rajshahi have earned it the nickname Silk City."
+     },
+     {
+        "service":"sundarbans",
+        "img":"https://i.postimg.cc/J7K6n9jK/sundarbans-bangladesh-16x9.jpg",
+        "price":"6500",
+        "discription":"In Bengali, the word 'Sundari' means beautiful and 'ban' means forest. Hence, the name 'Sunderban'. "
+     },
+     {
+        "service":"Cox's bazar",
+        "img":"https://i.postimg.cc/bNxQrbXP/longest-sea-beach-in.jpg",
+        "price":"7000",
+        "discription":"Major industries in addition to tourism include fish processing, salt production, ice making, printing, and the milling of rice, flour, and wood. "
+     },
+     {
+        "service":"Bandarban",
+        "img":"https://i.postimg.cc/tJT4jKH7/photo-1585123388867-3bfe6dd4bdbf.jpg",
+        "price":"5500",
+        "discription":"Bandarban is the pious hub of Theravada Buddhism practiced by tribal communities like Marma or Mogh. "
+     }
+     
+]
